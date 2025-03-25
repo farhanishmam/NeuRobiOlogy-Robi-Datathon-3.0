@@ -1,2 +1,10 @@
-# NeuRobiOlogy-Robi-Datathon-3.0
-The code repo of Team NeuRobiOlogy (Top-7) at Robi Datathon 3.0.
+# Team Neu_Robi_Ology @ Robi Datathon 3.0.
+
+[![Compt](https://img.shields.io/badge/Robi-Datathon_3.0-ffffff?labelColor=ef222b&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIlUExURQAAAP///////////////////////////////////////////////////////////////////v/9+v/8+PzZlv3ov//9+fvIZfm4OvvQfv7x1/vIZ/m1MPm1Mfq9SPzal/736Pm2NPm2M/rDWf3jsf758/iwL/ShLvKcY/nWxf/8+/m3NPm0M/anLfKXJvGPI+xuIetvMfOkffzm2/vJZ/m0MferL/OaJ/GRI+xwJOplI+pkIe15QPW4mv3y7P/9+PnDZvScJPGSJOplJOpmJOplIu+IU/jMtv77+vvhwfSrV/GRJPGQIetnI95dKLtXU+rY3/737vnPn/OhQ/GRIuVjJ8JQPZY3V4o4a+TR3f3v3/fBgvKZM/GOIO1xI+llJc9XNaE+UYYvYoItY4o5a+TS3f/9/Pzmy/WyZ9xoMqxESYoxX4ItZIQuY4QtYv3t9fGbtrk7Xo0rXoQtY/72+fa50exlmeU+f8ItW7EoUJ8rWIotYIMuY4MtY//8/fnQ4O55p+hEg+c9f+U+fsIuW7YoTrYoT64pUpgsW4ctYfvj7PGPtelMiec8fuc/gLUoTrcoT7UoT6goU5g1ZOXS3fjL3etil+c+f7YnT7UlTb06XdaOo/nx9Pzr8vOgwOpUjuc9fuc+gLkvVc5wiu/Q2P79/f/+/vvb6PCIsOhIhuU8fMErWcZYdue4xfz3+P76/PjI2utwn8xMdN2crvnt8P3y9vjm7FRO/dkAAAAQdFJOUwAAAS6U3vsDXNtd8C/a3fprt/0BAAAAAWJLR0QB/wIt3gAAAAd0SU1FB+kDGRAvMlHDSLIAAAFpSURBVDjLY2BgZGJmYWUTwABsrCzMTIwMDIzsHJwCOAAnBzsjAyMXtwBOwM3ByMDDK4AH8PIwsAjgBSwMfFCWoBBWBXwM/FCWsIioGBYF/AwwlrC4hKSUIKYKhAJpGVk5eQV8CmQVlZSUVVTxKVBUVFPX0NTCqUBbR1dP38DQyFgQqwITUzNzCwt9SytrG1s7LArsHRydLEAKnF1cXdzcPTAUCHh6eftAFLj4+vkHYCoQCAwK9gkBKvANDQuPiMSiQEAgKjomNi4+ITEpOSUVqwKBtPSMzKzsnNw8XAoE8gsKi3Jzc4txKCgpLSuvqKyqrqnFqqCuvqGxqbmlta29oxObgq7unt6+vuaW/rYJEydNnoKpYOq06dMhCmbMnDV7DhYr5s6bv2AhUMHMRYuXLBXAokBg2fIVK1etnrhm7TrkyOJH4gis37Bx0+YtyCL88EQLBVu3LUPh8xFO9gQzDsGsRzDzEsr+ANtDg1iBssiEAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI1LTAzLTI1VDE2OjQ3OjUwKzAwOjAwbSkCfgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNS0wMy0yNVQxNjo0Nzo1MCswMDowMBx0usIAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjUtMDMtMjVUMTY6NDc6NTArMDA6MDBLYZsdAAAAAElFTkSuQmCC)](https://www.robi.com.bd/datathon/datathon-terms-and-conditions.pdf) 
+![Rank](https://img.shields.io/badge/%F0%9F%8F%86_Final_Rank-Top_7-ffc107)
+
+[Md Farhan Ishmam](https://farhanishmam.github.io/), [Deeparghya Dutta Barua](https://github.com/arg274), [Fariha Tanjim Shifat](https://github.com/fariha6412), [BM Nishanul Alam Nishat](https://github.com/nishat1098)
+
+The repository contains the datathon problem statement, `.ipynb` solution files at the preliminary and on-site rounds, and our final presentation slides. Hope you find this repo useful. Best of luck at your future datathons!
+
+
